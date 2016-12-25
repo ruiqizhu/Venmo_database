@@ -1,0 +1,21 @@
+trans_id,sender_username,amount,num_of_likes,description
+1,anne_appleseed,10,2,Pizza
+2,bill_brown,35,1,Night out at Ritters
+3,carl_clarke,855,0,Rent for August 2016
+4,david_darcy,6,0,Tacos for lunch
+5,eric_evans,75,3,Office Chair!!
+6,frank_fox,400,0,IKEA Furniture
+7,gina_green,5.5,0,Drinks
+8,henry_hull,140,4,Utilities 11/7/16
+9,irene_ida,14.55,5,Postmates order of Sushi Fuku
+10,jack_jones,32.5,7,Date Night!
+11,anne_appleseed,300,0,App-Transaction
+12,bill_brown,23.95,0,App-Transaction
+13,carl_clarke,349.99,0,App-Transaction
+14,david_darcy,25,0,App-Transaction
+15,eric_evans,8.5,0,App-Transaction
+16,frank_fox,0.5,0,App-Transaction
+17,gina_green,10.99,0,App-Transaction
+18,henry_hull,675.99,0,App-Transaction
+19,irene_ida,45.85,0,App-Transaction
+20,jack_jones,35.95,0,App-Transaction

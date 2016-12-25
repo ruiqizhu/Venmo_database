@@ -1,0 +1,11 @@
+trans_id,receiver_username,is_payment
+1,bill_brown,TRUE
+2,carl_clarke,FALSE
+3,david_darcy,TRUE
+4,eric_evans,TRUE
+5,frank_fox,FALSE
+6,gina_green,TRUE
+7,henry_hull,FALSE
+8,irene_ida,FALSE
+9,jack_jones,FALSE
+10,anne_appleseed,FALSE
